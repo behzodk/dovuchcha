@@ -277,10 +277,12 @@ yangi yulduzlar bilan porlayotgan bo'ladi
 00:03:53,060 --> 00:03:58,079
 ayni Somon Yo'li va Andromeda to'qnashib,
 maftunkor kosmik ranglar aralashmasiga
+
 63
 00:03:58,079 --> 00:04:02,690
 aylanayotgan paytda. Bu simulyatsiya Andromeda
 Somon Yo'li bilan qanday to'qnashishini ko'rsatib
+
 64
 00:04:02,690 --> 00:04:03,150
 beradi,
@@ -339,6 +341,7 @@ Andromeda deb nomlanga kattaroq oilaning
 00:04:42,590 --> 00:04:48,539
 bir qismiga aylandi. O'sha payt tirik bo'lib,
 galaktikamiz to'qnashuvini ko'rish
+
 77
 00:04:48,539 --> 00:04:52,260
 juda zo'r bo'lar edi.
@@ -449,110 +452,110 @@ yemirilish darajasiga ega.
 
 101
 00:06:12,440 --> 00:06:16,190
-So, certainly by the year 7 million
+Shuning uchun 7 millionchi yilga kelib
 
 102
 00:06:16,190 --> 00:06:20,380
-Mount Rushmore, especially its faces, will no longer
+Rashmor tog'i, ayniqsa undagi prezident yuzlari yo'q
 
 103
 00:06:20,380 --> 00:06:23,419
-exist.
-And because they slowly get
+bo'ladi.
+Asta-sekin koinotga uchib
 
 104
 00:06:23,419 --> 00:06:28,580
-pulled in or rejected into space,
-in 50 to 100 million years
+ketayotgani sabab 50 100 million
+yil ichida Saturn biz sevadigan
 
 105
 00:06:28,580 --> 00:06:32,410
-Saturn will no longer have its lovely rings.
+halqalaridan ayrilib qoladi.
 
 106
 00:06:32,410 --> 00:06:35,780
-So, life on earth in the future
+Demak, Yerning kelajak osmonida
 
 107
 00:06:35,780 --> 00:06:41,050
-might have awesome supernovas and
-galactic collisions to look forward to
+tomosha qilishga supernovalar va
+galaktik to'qnashuvlar bo'lishi mumkin
 
 108
 00:06:41,050 --> 00:06:44,600
-but they probably won't have Niagara Falls,
+lekin ularda Niagara sharsharasi, Rashmor
 
 109
 00:06:44,600 --> 00:06:48,700
-Mount Rushmore, total solar eclipses or Saturn's rings.
+tog'i, quyosh tutilishi, yoki Saturn halqalari bo'lmaydi.
 
 110
 00:06:48,700 --> 00:06:52,310
-They also won't have you.
-But
+Ularda yana siz bo'lmaysiz.
+Lekin
 
 111
 00:06:52,310 --> 00:06:55,700
-you have you. Except not all of it.
+siz o'zligingizga egasiz. Faqat to'liq emas.
 
 112
 00:06:55,700 --> 00:06:59,500
-Babies don't begin to form episodic
-memories right
+Chaqaloqlar episodik xotiralarni
+saqlay
 
 113
 00:06:59,500 --> 00:07:03,930
-away, meaning that you missed out on. 
-You don't remember two of the most seminal
+olmaydi, yani siz ularni o'tkazib yuborgansiz.
+Siz hayotingizdagi eng yorqin xotiralarni
 
 114
 00:07:03,930 --> 00:07:05,490
-events in your life.
+eslay olmaysiz.
 
 115
 00:07:05,490 --> 00:07:08,690
-Your conception and your birth.
+Paydo bo'lishingiz va tug'ilishingiz.
 
 116
 00:07:08,690 --> 00:07:12,100
-But you can experience a bit of those moments
+Biroq hozir bu xotiralarni sizga eslatishimiz
 
 117
 00:07:12,100 --> 00:07:14,880
-right now.
-First of all,
+mumkin.
+Birinchidan,
 
 118
 00:07:14,880 --> 00:07:20,380
-When Was I Conceived? dot com
-lets you enter your birthday
+When Was I Conceived? nuqta com
+sayti tug'ilgan kuningiz orqali
 
 119
 00:07:20,389 --> 00:07:23,990
-and get back the week your parents probably made
+siz ehtimoliy paydo bo'lgan haftani, shuningdek
 
 120
 00:07:23,990 --> 00:07:28,190
-you happen, as well as the number one
-song and the number one movie of that
+shu haftaning eng mashxur ashulasi va
+birinchi raqamli hafta filmini
 
 121
 00:07:28,190 --> 00:07:31,630
-week, which may have also been involved.
+sizga ko'rsatadi, qiziq.
 
 122
 00:07:31,630 --> 00:07:35,420
-Light travels quickly, the most quickest
+Nur tez harakat qiladi, to'g'rirog'i eng
 
 123
 00:07:35,430 --> 00:07:39,539
-in fact.
-But it can take a photon millions
+tezkori.
+Ammo fotonning yadro sintezi natijasida
 
 124
 00:07:39,539 --> 00:07:45,340
-of years to escape from the interior of the star
-it was created in through nuclear fusion.
+yaratilgan yulduzning ichki qismidan qochishi uchun
+millionlab yillar kerak bo'lishi mumkin.
 
 125
 00:07:45,340 --> 00:07:49,320
