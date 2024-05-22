@@ -74,8 +74,7 @@ tugallanadi.
 
 17
 00:01:04,950 --> 00:01:06,520
-The final block placed by
-Oxirgi blok
+Undagi oxirgi blok
 
 18
 00:01:06,530 --> 00:01:11,200
@@ -113,7 +112,7 @@ kerak bo'ladigan vaqt 4000 yil emas, 5000 yil emas,
 25
 00:01:33,439 --> 00:01:37,909
 va bu hattoki 6000 yil ham emas.
-Bu joy oxide-oqibat 22000-
+Bu joy oxir-oqibat 22000-
 
 26
 00:01:37,909 --> 00:01:42,889
@@ -225,7 +224,7 @@ Galaktika - Andromeda Galaktikasi va u bizdan ikki
 51
 00:03:09,859 --> 00:03:15,420
 yarim million yorug'lik yili uzoqda.
-U bizdagiga qaraganda ikki barobar ko'p
+Unda bizdagiga qaraganda ikki barobar ko'p
 
 52
 00:03:15,420 --> 00:03:16,379
@@ -289,7 +288,6 @@ beradi,
 
 65
 00:04:03,150 --> 00:04:06,190
-but keep in mind that you are watching billions
 biroq siz har soniyada milliardlab yillar o'tishini
 
 66
@@ -299,7 +297,7 @@ Bu galaktikalar
 
 67
 00:04:09,919 --> 00:04:13,169
-tez harakatlanyapti lekin ulan ulkan hamdir
+tez harakatlanyapti lekin ular ulkan hamdir
 
 68
 00:04:13,169 --> 00:04:16,760
@@ -308,7 +306,7 @@ Ular
 
 69
 00:04:16,760 --> 00:04:20,829
-kelajakda to'qnashishadi ammo yagona insin umrining
+kelajakda to'qnashishadi ammo yagona inson umrining
 
 70
 00:04:20,829 --> 00:04:24,830
@@ -359,7 +357,7 @@ ularda bizga hasad qiladigan ko'p narsalar bor.
 80
 00:05:01,039 --> 00:05:05,610
 Ularda maftunkor tungi manzaralar bo'lishi 
-mumkin, ammo ichlarida bizning davrda tug'ilib,
+mumkin, ammo ular bizning davrda tug'ilib,
 
 81
 00:05:05,610 --> 00:05:06,360
@@ -367,7 +365,7 @@ internetning
 
 82
 00:05:06,360 --> 00:05:09,820
-boshlanishini kabi voqealarni ko'rishni xohlashadi.
+boshlanishi kabi voqealarni ko'rishni xohlashadi.
 
 83
 00:05:09,820 --> 00:05:13,930
@@ -380,11 +378,11 @@ uzoqlashadi, va
 
 85
 00:05:17,630 --> 00:05:22,490
-bugundan boshlab 600 million yildan so'ng
+bugundan 600 million yil o'tgach
 
 86
 00:05:22,490 --> 00:05:25,840
-Oy Yerga hech qachon Quyoshni to'liq yopib
+Oy hech qachon Quyoshni to'liq yopib
 turish uchun yetarli 
 
 87
@@ -465,7 +463,7 @@ Asta-sekin koinotga uchib
 
 104
 00:06:23,419 --> 00:06:28,580
-ketayotgani sabab 50 100 million
+ketayotgani sabab 50 - 100 million
 yil ichida Saturn biz sevadigan
 
 105
@@ -506,7 +504,7 @@ saqlay
 113
 00:06:59,500 --> 00:07:03,930
 olmaydi, yani siz ularni o'tkazib yuborgansiz.
-Siz hayotingizdagi eng yorqin xotiralarni
+Siz hayotingizdagi eng yorqin ikki xotiralarni
 
 114
 00:07:03,930 --> 00:07:05,490
@@ -594,7 +592,7 @@ yuzasiga eltadi, va koinotga uchib chiqishadi.
 
 133
 00:08:15,270 --> 00:08:21,870
-Xuddi ular tug'ilgandek. Yulduzning yuzasiga 
+Xuddi siz tug'ilgandek. Yulduzning yuzasiga 
 yeta olgan fotonlarning omadli juda kichik 
 
 134
@@ -616,7 +614,7 @@ ko'zingiz pardasi tagida singib ketib,
 
 138
 00:08:34,300 --> 00:08:39,180
-sayohatlarini tugatishadi.
+sarguzashtini tugatishadi.
 Agar siz tug'ilgan sanangiz yoki chaqaloq 
 
 139
@@ -640,7 +638,7 @@ tug'ilgan oyingizda yo'lga chiqqan nurni yoki endigina
 
 143
 00:08:57,870 --> 00:09:01,459
-hujayra bo'lib shakllanayotganinzda yulduzni
+hujayra bo'lib shakllanayotganingizda yulduzni
 
 144
 00:09:01,459 --> 00:09:05,470
