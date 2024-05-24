@@ -93,7 +93,7 @@ olmaydilar.
 
 21
 00:01:18,530 --> 00:01:21,680
-Mn qilingan zona.
+Man qilingan zona.
 Xaroba makon.
 
 22
