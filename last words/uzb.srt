@@ -1,307 +1,311 @@
 1
 00:00:01,699 --> 00:00:03,669
-Hey, Vsauce. Michael here.
+Hey, Vsauce. Maykl bu yerda.
 
 2
 00:00:04,320 --> 00:00:07,440
+1977-yil 17-dekabrda,
 On December 17th, 1977,
 
 3
 00:00:07,440 --> 00:00:10,880
-Gary Gilmore was executed for murder.
+Gary Gilmor qotillik uchun qatl etilgan.
 
 4
 00:00:10,880 --> 00:00:15,150
-He was the first prisoner executed
-by the United States after a
+U Qo'shma Shtatlar tomonidan 10
+yillik tergovdan so'ng qatl
 
 5
 00:00:15,150 --> 00:00:19,970
-10-year suspension of the practice.
-When asked if he had any
+etilgan ilk mahbus edi.
+Undan so'ngi so'z so'ralganda
 
 6
 00:00:19,970 --> 00:00:25,070
-last words, he simply replied
-"let's do it."
+u shunchaki "keling buni qilamiz"
+deya javob bergan.
 
 7
 00:00:25,520 --> 00:00:30,700
-Years later, advertising executive Dan Wieden
-adapted those words into
+Yillar o'tib, reklama direktori Dan Viden buni
+Nikening "Shunchaki bajaring"
 
 8
 00:00:30,710 --> 00:00:33,930
-a slogan, that is now more widely known
+shioriga moslashtirdi, va hozir u Gary
 
 9
 00:00:33,930 --> 00:00:37,450
-than Gary Gilmore.
-Last words
+Gilmordan mashxurroq.
+So'ngi so'zlar
 
 10
 00:00:37,450 --> 00:00:42,690
-are powerful.
+qudratli.
+Ular insonlarning butun hayoti davomida olib borgan eng
 They are the final statement, a person's entire life has
 
 11
 00:00:42,690 --> 00:00:43,890
-been leading up to.
+so'ngi bayonatidir.
 
 12
 00:00:43,890 --> 00:00:47,620
-One last chance to go on record
-before obliteration.
+Mashxurlik uchun berilgan so'ngi
+imkoniyat.
 
 13
 00:00:49,360 --> 00:00:51,219
-We don't know Albert Einstein's
+Biz Eynshteynning so'ngi so'zlarini
 
 14
 00:00:51,219 --> 00:00:54,260
-last words.
-He spoke them in German
+bilmaymiz.
+U ularni faqat ingliz tilini
 
 15
 00:00:54,260 --> 00:00:57,629
-to a nurse who only knew English,
+biladigan hamshiraga nemis tilida aytgan.
 
 16
 00:00:58,600 --> 00:00:59,480
-They're lost.
+Ular yo'qolib ketgan.
 
 17
 00:01:00,780 --> 00:01:02,379
-But what will be
+Lekin bizning birinchi
 
 18
 00:01:02,379 --> 00:01:06,040
-our first words?
-The first words
+so'zlarimiz nima bo'ladi.
+O'zga sayyoraliklar
 
 19
 00:01:06,040 --> 00:01:10,600
-from earth extraterrestrials out there
-might hear from us.
+bizdan eshitishi mumkin bo'lgan birinchi
+so'zlar.
 
 20
 00:01:10,600 --> 00:01:14,130
-We have been broadcasting signals
-with radio waves
+Biz yuz yildan ko'proq vaqt davomida
+signallarni radio 
 
 21
 00:01:14,130 --> 00:01:17,820
-wirelessly through the air for more than
-one hundred years.
+to'lqinlar bilan havo orqali uzatib
+kelmoqdamiz.
 
 22
 00:01:17,820 --> 00:01:20,990
-Under the right conditions,
-those signals can leak into space
+To'g'ri sharoitlarda ushbu
+signallar osmonga sizib chiqishi
 
 23
 00:01:20,990 --> 00:01:24,549
-and keep going outward at the speed of light
+va galaktikamizga, koinotga yorug'lik tezligida
 
 24
 00:01:24,549 --> 00:01:29,509
-through our galaxy, through the universe.
-Current human technology would struggle
+tarqalishda davom etishi mumkin.
+Hozirgi texnologiyalar bilan Marsdek
 
 25
 00:01:29,509 --> 00:01:32,490
-to tune into regular TV and radio broadcasts from
+yaqin joydan ham odatiy radio to'lqinlarni tutishda
 
 26
 00:01:32,490 --> 00:01:37,049
-as near as Mars.
-But perhaps other intelligent beings out there
+qiynaladi.
+Ammo, ehtimol, boshqa aqlli mavjudotlar yaxshiroq
 
 27
 00:01:37,049 --> 00:01:40,540
-would fare better and could point there
-instruments at earth
+harakat qilishlari va yerdagi signallarni
+tutishi hamda bizni
 
 28
 00:01:40,540 --> 00:01:43,990
-and hear us.
-If so, what would the
+eshitishi mumkin.
+Shunday bo'lsa, ular
 
 29
 00:01:43,990 --> 00:01:47,750
-earliest thing be that they could receive?
+eng birinchi nimani eshitgan bo'lardi?
 
 30
 00:01:47,750 --> 00:01:50,759
-Our cosmic first
+Bizning birinchi
 
 31
 00:01:50,759 --> 00:01:53,820
-words.
-Well, the
+kosmik so'zlarimiz.
+Xo'sh, eng
 
 32
 00:01:53,820 --> 00:01:58,329
-earliest signal, robust enough to be
-picked up light years away,
+birinchi signallar, yorug'lik yillari
+uzoqdan tutilishi uchun, yetarlicha
 
 33
 00:01:58,329 --> 00:02:01,350
-might have come from Hitler.
+kuchli signallar Gitlerniki.
 
 34
 00:02:01,350 --> 00:02:04,430
+1936-yildagi Yozgi
 His 1936 broadcasting
 
 35
 00:02:04,430 --> 00:02:08,128
-of the Summer Olympics used powerful
-enough radio equipment to reach
+Olimpiya o'yinlaridagi radio eshittiruvi
+41 davlatga eshittirilishi uchun
 
 36
 00:02:08,128 --> 00:02:09,769
-forty-one countries,
+yetarlicha kuchli bo'lgan.
 
 37
 00:02:09,770 --> 00:02:13,720
-making it a contender for what listening
-extraterrestrials could receive as,
+Va bu uni o'zga sayyoraliklar tomonidan
+birinchi eshitilishi mumkin bo'lgan signallar
 
 38
 00:02:13,720 --> 00:02:16,910
-to them, Earth's first words.
+orasida yetakchi qiladi.
 
 39
 00:02:16,910 --> 00:02:20,620
-Within the last 50 years or so, broadcast signals
+So'ngi 50 yil ichida, uzatish signallari, umuman,
 
 40
 00:02:20,620 --> 00:02:23,739
-in general, have become stronger
-than Hitler's Olympics
+Gitlerning radio to'lqinidan anchagina 
+kuchaydi va o'zga sayyoraliklar
 
 41
 00:02:23,739 --> 00:02:27,400
-and are better candidates for being intercepted.
+uchun kuchliroq nomzodlarga aylandi.
 
 42
 00:02:27,400 --> 00:02:31,540
-The earliest of them have traveled
-50 light years away from Earth.
+Ularning eng birinchisi yerdan
+50 yorug'lik yili uzoqlashdi.
 
 43
 00:02:31,540 --> 00:02:34,720
-Altogether they have entertained billions of
+Umumiy olganda ular millionlab odamlar va
 
 44
 00:02:34,720 --> 00:02:39,360
-people and by now about 2,000 stars.
+2000 yulduz tomonida eshitilgan.
 
 45
 00:02:39,360 --> 00:02:42,970
-The 133 brightest of which are shown
+Eng yorug'i 133 tasi mana bu yerda
 
 46
 00:02:42,970 --> 00:02:46,250
-here.
-So far, Martin Luther King JR's
+ko'rsatilgan.
+Shu paytgacha, Martin Lyuterning
 
 47
 00:02:46,250 --> 00:02:50,010
-"I have a dream" speech
-has traveled as far as the furthest
+"Orzuyim bor" nomli nutqi
+eng uzoqqa yetib borgan, diagrammada
 
 48
 00:02:50,010 --> 00:02:53,019
-on the diagram µAra, which has
+ko'rsatilganidek, to'rt sayyoraga ega
 
 49
 00:02:53,019 --> 00:02:56,410
-four known planets.
-In six years,
+MyuAragacha yetgan.
+To'rt yil oldin,
 
 50
 00:02:56,410 --> 00:03:00,200
-our first words on the Moon
-will pass by µAra's
+oydagi birinchi so'zlarimiz
+MyuAra tizimini kesib
 
 51
 00:03:00,200 --> 00:03:07,030
-system.
-"That's one small step for man,
+o'tdi.
+"Bu inson uchun kichik bir qadam,
 
 52
 00:03:07,030 --> 00:03:11,640
-one giant leap for mankind."
-Those words were spoken by Neil
+katta bir sakrashdir".
+Bu so'zlar Nil Armstrong tomonidan
 
 53
 00:03:11,640 --> 00:03:15,220
-Armstrong,
-seen here a few years before his death
+aytilgan
+mana u, o'limidan bir necha yil oldin
 
 54
 00:03:15,220 --> 00:03:19,120
-with Eugene Cernan,
-the most recent and currently
+Yujin Kernan bilan,
+oydagi eng oxirgi bo'lgan
 
 55
 00:03:19,120 --> 00:03:22,920
-last man to have walked on the surface of the Moon.
+va oy yuzasidada yurgan eng so'ngi inson.
 
 56
 00:03:22,920 --> 00:03:26,299
+1972-yil 14-dekabrda,
 On December 14th, 1972,
 
 57
 00:03:26,299 --> 00:03:29,970
-before climbing back into the lunar module,
-Cernan spoke
+Oy moduliga qaytib o'tirishidan oldin 
+Kernanning gapi
 
 58
 00:03:29,970 --> 00:03:33,810
-our, as of today, last words on the Moon.
+hozircha oyda aytgan so'ngi so'zimiz.
 
 59
 00:03:33,810 --> 00:03:37,640
-"We leave as we came and,
+"Biz kelganimiz kabi ketamiz,
 
 60
 00:03:37,640 --> 00:03:40,819
-God willing, as we shall return, with peace,
+Xudo xohlasa, butun insoniyat uchun tinchlik
 
 61
 00:03:40,819 --> 00:03:44,569
-and hope for all mankind."
-Of course,
+va umid bilan qaytamiz."
+Albatta,
 
 62
 00:03:44,569 --> 00:03:47,709
-once inside the lunar module, the crew kept
+oy modulining ichida u yana gapirishda davom
 
 63
 00:03:47,709 --> 00:03:52,670
-talking, meaning that technically
-the very last words humans have said
+etdi, shuning uchun texnik jihatdan
+oy yuzasida aytilgan, bizning ya'ni
 
 64
 00:03:52,670 --> 00:03:57,099
-on the surface of the Moon were a
-countdown spoken by Harrison
+butun insoniyatning so'ngi so'zi
+bu Harrison Jack Shmitning 
 
 65
 00:03:57,099 --> 00:04:00,839
-Jack Schmitt.
+sanog'idir.
 "Three, two, one."
 
 66
 00:04:02,960 --> 00:04:05,180
-We haven't been back to the Moon
+Shundan buyon buz oyga qadam 
 
 67
 00:04:05,180 --> 00:04:09,810
-since.
-But hold on. What were the first words
+bosmadik.
+Lekin to'xtang. Aslida Oy yuzida aytilgan
 
 68
 00:04:09,810 --> 00:04:12,879
@@ -309,296 +313,298 @@ spoken on the surface of the Moon
 
 69
 00:04:12,879 --> 00:04:15,879
-really?
-Armstrong's giant
+o'zi?
+Armstrongning katta
 
 70
 00:04:15,879 --> 00:04:20,350
-leap statement is a good answer,
-but what counts as being
+sakrash nomli gapi degan edik,
+lekin qo'nishda aytilgan
 
 71
 00:04:20,350 --> 00:04:23,790
-on the Moon if touchdown
+gap hisobga olinsa nima
 
 72
 00:04:23,790 --> 00:04:28,820
-counts? Then the first words spoken on the
-Moon go not to Armstrong but to Buzz Aldrin,
+bo'ladi? Unda oyda aytilgan birinchi so'z
+Armstrongga tegishli bo'lmaydi, balki Bazz Aldringa
 
 73
 00:04:28,820 --> 00:04:32,560
-who, on feeling at least one of the landing pads
+tegishli bo'ladi, u oy tuprog'idagi qo'nish maydonchasiga
 
 74
 00:04:32,560 --> 00:04:36,160
-softly settle onto the lunar soil, spoke
+oxista tushib, mana bu o'lmas jumlani
 
 75
 00:04:36,160 --> 00:04:40,620
-this immortal description:
-"contact light."
+aytgan:
+"kontakt nuri."
 
 76
 00:04:41,980 --> 00:04:44,680
+Biz koinotga to'xtovsiz tarqaluvchi
 We are pumping broadcasts in the space
 
 77
 00:04:44,680 --> 00:04:48,590
-as an ever expanding sphere of radio waves.
+radio to'lqinlarni jo'natyapmiz.
 
 78
 00:04:48,590 --> 00:04:53,220
-But here's something humbling.
-Even while growing at the speed of light,
+Lekin bir narsani hisobga olish kerak.
+Hatto yorug'lik tezligida yursa ham,
 
 79
 00:04:53,220 --> 00:04:57,550
-Earth's radio sphere is puny.
+yerning radio signallari juda ojiz.
 
 80
 00:04:57,550 --> 00:05:01,430
-This is our galaxy, the Milky Way.
-Comparatively,
+Bu bizning galaktikamiz, Somon yo'li.
+Taqqoslanganda,
 
 81
 00:05:01,430 --> 00:05:04,580
-the distance our radio signals, our voice
+bizning radio signallarimiz, atigi mana
 
 82
 00:05:04,580 --> 00:05:09,660
-has traveled is this big.
+shunchalik uzoqlashgan.
 
 83
 00:05:13,360 --> 00:05:15,820
-The universe is huge.
+Koinot katta.
 
 84
 00:05:15,820 --> 00:05:19,270
-How the heck are you supposed
-to be remembered in it?
+Bunday kattalikda qanday qilib
+sizni tanish mumkin?
 
 85
 00:05:19,270 --> 00:05:22,950
-Utter last words that stick around after you die?
+O'limdan oldingi so'zlaringiz nima bo'ladi?
 
 86
 00:05:22,950 --> 00:05:26,550
-Well, you may have heard
-the famous quote from Banksy
+Xo'sh, siz Banskining mashxur
+so'zlarini eshitgan bo'lishingiz mumkin:
 
 87
 00:05:26,550 --> 00:05:29,610
-"They say you die twice.
+"Siz ikki marta o'lasiz.
 
 88
 00:05:29,610 --> 00:05:33,260
-One time when you stop breathing and a second time,
+Birinchisi nafas olishdan to'xtaganingizda, ikkinchisi,
 
 89
 00:05:33,260 --> 00:05:36,740
-a bit later on, when somebody says your name
+biroz keyin, kimdir ismingizni oxirgi bor
 
 90
 00:05:36,740 --> 00:05:41,170
-for the last time."
-But your anonymous influence continues
+tilga olganida."
+Lekin sizning anonim ta'siringiz davom
 
 91
 00:05:41,170 --> 00:05:46,460
-long after that, right?
-I mean, people may stop saying your name,
+etadi, shunday emasmi?
+Ya'ni, odamlar ismingizni eslamasligi mumkin,
 
 92
 00:05:46,460 --> 00:05:50,460
-but, for instance, if you have kids and they have kids
+lekin, misol uchun, agar bolangiz bo'lsa va uning ham
 
 93
 00:05:50,460 --> 00:05:53,680
-and so on and so on, you continue on,
+bolasi bo'lsa, xullas shu tarzda siz
 
 94
 00:05:53,680 --> 00:05:56,400
-in a way.
-Maybe just genetically, not by name.
+davom etasiz.
+Balki shunchaki genetik tomondan.
 
 95
 00:05:56,800 --> 00:06:00,360
-Well, people have tried.
-The world record
+Odamlar buni sinab ko'rgan.
+Bir onadan eng ko'p
 
 96
 00:06:00,370 --> 00:06:04,200
-for most children passed
-out of one single woman
+eng ko'p farzand tug'ilishi
+bo'yicha dunyo rekordi
 
 97
 00:06:04,200 --> 00:06:07,840
-belongs to Mrs. Feodor Vassilyev.
-She had
+Fyodor Vasilyevaga tegishli.
+Unda
 
 98
 00:06:07,840 --> 00:06:12,030
-16 pairs of twins, 7 sets of triplets
+16 juft egizak, 7 ta uchtalik egizak
 
 99
 00:06:12,030 --> 00:06:16,170
-and 4 sets of quadruplets for a grand total
+va 4 ta to'rttalik egizaklar, umumiy 69 nafar
 
 100
 00:06:16,170 --> 00:06:21,500
-of 69 children.
-As for being a biological
+farzandi bo'lgan.
+Eng ko'p ota sifatida farzandli
 
 101
 00:06:21,500 --> 00:06:25,320
-father, that takes less time.
-The documented record
+bo'lish, uzoqroqqa boradi.
+Bir otadan tug'ilgan
 
 102
 00:06:25,320 --> 00:06:28,960
-for most children fathered by one man is held
+farzanlar soni bo'yicha ro'yhat olingan rekord
 
 103
 00:06:28,960 --> 00:06:32,820
-by Ismail Ibn Sharif, who is estimated to have had
+Ismoil Ibn Sharifga tegishli, u bir necha ayoldan
 
 104
 00:06:32,820 --> 00:06:36,830
-more than 900 children with multiple women.
+taxminan 900 oshiq farzand dunyoga keltirgan
 
 105
 00:06:36,830 --> 00:06:40,720
-But children—or not—in a feedback system like
+Ammo bolalar bor-yo'qligi yer yoki hayot kabi
 
 106
 00:06:40,720 --> 00:06:44,200
-earth or life, cause-and-effect
+qayta aloqa tizimida sabab-oqibat
 
 107
 00:06:44,200 --> 00:06:47,480
-are complicated and never ending.
+murakkab va hech qachon tugamaydi.
 
 108
 00:06:47,480 --> 00:06:51,460
-Remember the double pendulums
-from this video? A small difference
+Ushbu videodagi qo'sh mayatniklarni
+eslaysizmi? Sistemadagi boshlang'ich
 
 109
 00:06:51,460 --> 00:06:55,130
-in the initial conditions of a system
-can lead to enormously 
+holat oxirida juda oxirida 
+juda katta farq qiladigan 
 
 110
 00:06:55,130 --> 00:06:58,950
-different outcomes later.
-On Tuesday
+natijalarga olib keladi.
+Seshanba kuni
 
 111
 00:06:58,950 --> 00:07:03,570
-I'm flying from London to Los Angeles.
-The plane will be flown by pilots who
+Londondan Los Anjelsga uchyapman.
+Samalyot Qo'shma Shtatlardagi to'g'ri
 
 112
 00:07:03,570 --> 00:07:05,460
-can steer it toward the correct runway
+uchish-qo'nish yo'lagi tomon boshqara
 
 113
 00:07:05,460 --> 00:07:09,110
-in the United States, but if the airplane needed to be
+oladigan uchuvchilar tomonidan boshqariladi, lekin agar
 
 114
 00:07:09,110 --> 00:07:13,100
-aimed from London and sent on a straight shot,
+Londondan mo'ljalga olinadigan bo'lsa, endi,
 
 115
 00:07:13,100 --> 00:07:16,250
-now, things would need to be very specific.
+ishlar juda aniq ketishi lozim.
 
 116
 00:07:16,250 --> 00:07:20,050
-Misaiming just one degree to the left
+Boshlanishidagi noto'g'ri yo'nalish
 
 117
 00:07:20,050 --> 00:07:23,460
-at the beginning would send
-the plane not to Los Angeles
+bo'ylab bir daraja burish,
+Samalyotni Los Anjelsga emas
 
 118
 00:07:23,460 --> 00:07:27,970
-but nearly 160 kilometres south
-to Tijuana, Mexico.
+balki 160 kilometr janubga Tixuana
+Meksikaga eltadi.
 
 119
 00:07:27,970 --> 00:07:33,320
-Your name and your last words might
-eventually be forgotten, but your status
+Sizning ismingiz va oxirigi so'zingiz
+oxir-oqibat unutiladi, lekin sizning 
 
 120
 00:07:33,320 --> 00:07:36,770
-as an initial condition for the universe's
+koinot kelajagi uchun dastlabki statusingiz
 
 121
 00:07:36,770 --> 00:07:39,410
-future is already happening.
+hozirdanoq sodir bo'lyapti.
 
 122
 00:07:39,640 --> 00:07:42,760
-Bach died before he could complete
+Bax fuga san'atini tugatishdan avval
 
 123
 00:07:42,760 --> 00:07:46,680
-The Art of Fugue.
-The peace ends abruptly
+o'lib qoldi.
+Tinchlik Kontrapunktus XIV
 
 124
 00:07:46,690 --> 00:07:51,740
-during Contrapunctus XIV.
-So, composers continue
+davrida to'satdan tugadi
+Shuning uchun bastakorlar
 
 125
 00:07:51,740 --> 00:07:55,620
-reconstructing it.
-For that reason, it is
+uni qayta tiklayapti.
+Shuning uchun, u
 
 126
 00:07:55,620 --> 00:07:59,190
-uniquely alive.
-Speaking new
+asrab qolingan.
+Har doim biz
 
 127
 00:07:59,190 --> 00:08:02,230
-last words all the time,
-as new people meet it
+yangi so'ngi so'zlarni
+turli xil odamlar
 
 128
 00:08:02,230 --> 00:08:05,890
-and finish it in their own way.
-Likewise, no matter how
+qarshisida aytamiz
+Xuddi shunday, qanchalik
 
 129
 00:08:05,890 --> 00:08:08,890
-cool or lame and small
+o'zingizni illiq yoki yengil
 
 130
 00:08:08,890 --> 00:08:14,460
-you feel, you will continue.
-Your impact will be remembered, mathematics
+his qilmang, siz yashaysiz.
+Sizning tasiringiz yodda saqlanadi, matematiklar
 
 131
 00:08:14,460 --> 00:08:18,190
-guarantees it.
-Even if like Bach you leave things
+buni kafolatlaydi.
+Xattoki, Bax kabi ishlarni tugallamasdan
+
 
 132
 00:08:18,190 --> 00:08:19,470
-unfinished.
+ketsangiz ham.
 
 133
 00:08:20,000 --> 00:08:21,300
-And as always,
+Va Har doimgidek,
 
 134
 00:08:21,300 --> 00:08:21,800
-thanks for wa...
+e'tibor uchun rahmat!
 
