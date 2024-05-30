@@ -44,7 +44,7 @@ Bir necha blok narida ikkinchi xavf kutib turibti.
 
 12
 00:00:30,439 --> 00:00:34,120
-Xira yoritilgan xonada turib,
+Xira yoritilgan xonadan turib,
 
 13
 00:00:34,120 --> 00:00:36,960
@@ -429,11 +429,11 @@ chiroqlar, sirenalar, o't o'chirgichlar
 
 107
 00:04:50,639 --> 00:04:53,320
-va kommunikatsiya uchun radio telefonlar
+va kommunikatsiya uchun radio telefonlar bilan
 
 108
 00:04:53,320 --> 00:04:56,479
-bilan qayta jihozlangan edi. Mashina yana
+qayta jihozlangan edi. Mashina yana
 
 109
 00:04:56,479 --> 00:04:59,280
@@ -442,11 +442,11 @@ kerakli bo'lmagan payti buklab qo'ysa bo'ladigan
 
 110
 00:04:59,280 --> 00:05:02,199
-sakrama nasosli o'rta o'rindiqlar qatori
+sakrama nasosli o'rta o'rindiqlar qatori bilan 
 
 111
 00:05:02,199 --> 00:05:05,600
-bilan kengaytirilgan edi. Qo'shimchasiga,
+kengaytirilgan edi. Qo'shimchasiga,
 
 112
 00:05:05,600 --> 00:05:08,120
@@ -470,11 +470,11 @@ ommaga ko'rinarliroq qilish uchun edi.
 
 117
 00:05:18,600 --> 00:05:22,120
-Afsuski, bu uni zaifroq ham qilib qo'ygan
+Afsuski, bu uni zaifroq ham qilib qo'ygan edi.
 
 118
 00:05:22,120 --> 00:05:24,840
-edi. Kennediga bo'lgan suiqasddan so'ng, 
+Kennediga bo'lgan suiqasddan so'ng, 
 
 119
 00:05:24,840 --> 00:05:28,440
@@ -502,15 +502,15 @@ bo'ladigan ko'rinishi ko'proq nifoq
 
 125
 00:05:42,560 --> 00:05:45,680
-soluvchi vorisini qo'riqlashni maqsad
+soluvchi vorisini qo'riqlashni 
 
 126
 00:05:45,680 --> 00:05:48,680
-qilgan tankka
+maqsad qilgan tankka aylantirildi. 
 
 127
 00:05:48,680 --> 00:05:51,919
-aylantirildi. Yaxshiyam-ki, bugungi limuzin
+Yaxshiyam-ki, bugungi limuzin
 
 128
 00:05:51,919 --> 00:05:54,639
@@ -542,11 +542,11 @@ Motors tomonidan maxsus qurilgan mashinadir.
 
 135
 00:06:12,440 --> 00:06:14,319
-Mashina aslida yuk mashina platformasiga
+Mashina aslida yuk mashina 
 
 136
 00:06:14,319 --> 00:06:17,120
-asosan qurilgan. Bu qattiq zirhlangan
+platformasiga asosan qurilgan. Bu, qattiq zirhlangan
 
 137
 00:06:17,120 --> 00:06:20,280
@@ -554,7 +554,7 @@ asosan qurilgan. Bu qattiq zirhlangan
 
 138
 00:06:20,280 --> 00:06:23,039
-kerak edi. Ichki taraf zuchlab har qanday
+kerak edi. Ichki taraf zichlab har qanday
 
 139
 00:06:23,039 --> 00:06:25,520
@@ -575,11 +575,11 @@ ham yurishni davom etishga qodir va eshiklar
 
 143
 00:06:34,639 --> 00:06:36,880
-oldini olish maqsadida bitta tugma bosilishi
+oldini olish maqsadida bitta tugma bosilishi bilan
 
 144
 00:06:36,880 --> 00:06:39,120
-bilan elektrllashtirsa bo'ladigan tutqichlar
+elektrllashtirsa bo'ladigan tutqichlar
 
 145
 00:06:39,120 --> 00:06:40,120
@@ -595,19 +595,19 @@ prezidentniki bilan bir xil bo'lgan qon
 
 148
 00:06:45,680 --> 00:06:49,639
-zaxirasi mavjud. U mumkin bo'lgan har
+zaxirasi mavjud. U mumkin bo'lgan havf
 
 149
 00:06:49,639 --> 00:06:53,000
-xatarlarga dosh berishga mo'ljallangan
+xatarlarga dosh berishga mo'ljallangan tankdir.
 
 150
 00:06:53,000 --> 00:06:55,720
-tankdir. Lekin ssenariyimizdagi eng qiyin
+Lekin ssenariyimizdagi eng qiyin muammo
 
 151
 00:06:55,720 --> 00:06:58,720
-muammo hali oldinda. Ikki kvart orqada
+hali oldinda. Ikki kvart orqada
 
 152
 00:06:58,720 --> 00:07:01,240
@@ -615,11 +615,11 @@ raketa uchirgich bilan furgon mashinalar
 
 153
 00:07:01,240 --> 00:07:05,360
-chidamliligini tekshirish uchun shay
+chidamliligini tekshirish uchun shay turibdi.
 
 154
 00:07:05,360 --> 00:07:08,080
-turibdi. Prezidentni to'g'ridan-to'g'ri
+Prezidentni to'g'ridan-to'g'ri
 
 155
 00:07:08,080 --> 00:07:09,960
@@ -651,11 +651,11 @@ ma'lumot uzatuvchi va muammolarni erta
 
 162
 00:07:26,319 --> 00:07:28,720
-aniqlash uchun motorli aloqa tizimi
+aniqlash uchun motorli aloqa tizimi sifatida
 
 163
 00:07:28,720 --> 00:07:31,919
-sifatida hismat qiladi.
+hizmat qiladi.
 
 164
 00:07:31,919 --> 00:07:34,639
@@ -672,11 +672,11 @@ Bu transport biologik, kimyoviy va
 
 167
 00:07:40,039 --> 00:07:42,800
-xatto yadroviy hujumga qarshi
+xatto yadroviy hujumga qarshi chiqish
 
 168
 00:07:42,800 --> 00:07:45,599
-chiqish uchun qurollangan. U
+uchun qurollangan. U
 
 169
 00:07:45,599 --> 00:07:48,000
@@ -685,15 +685,15 @@ shu kabi xujumlarda kerak bo'ladigan
 
 170
 00:07:48,000 --> 00:07:51,000
-jihozlar va xodimlarni olib
+jihozlar va xodimlarni olib yuradi.
 
 171
 00:07:51,000 --> 00:07:53,680
-yuradi. Bu tom ustidagi antenna bilan
+Bu tom ustidagi antenna bilan tanilgan 
 
 172
 00:07:53,680 --> 00:07:56,479
-tanilgan Road Runner nomi bilan mashxur
+Road Runner nomi bilan mashxur
 
 173
 00:07:56,479 --> 00:07:59,319
@@ -721,19 +721,15 @@ va internet aloqalarini ta'minlaydi.
 
 179
 00:08:11,520 --> 00:08:14,000
-Pentagonga to'g'ridan-to'gri aloqa taminlaydi
+Pentagonga to'g'ridan-to'gri aloqa ham taminlaydi
 
 180
 00:08:14,000 --> 00:08:16,120
-bu prezident xafvsiz telefon va video
+bu prezidentga xafvsiz telefon va video
 
 181
-00:08:16,120 --> 00:08:19,000
-qo'ng'iroqlar amalga oshirishda yordam
-
-182
-00:08:19,000 --> 00:08:20,639
-beradi,
+00:08:16,120 --> 00:08:20,639
+qo'ng'iroqlar amalga oshirishda yordam beradi,
 
 183
 00:08:20,639 --> 00:08:23,479
@@ -745,11 +741,11 @@ ehtimolga qarshi mahalliy tez yordam
 
 185
 00:08:26,520 --> 00:08:29,560
-mashinasi bo'ladi va kortejning eng 
+mashinasi bo'ladi va kortejning eng orqasida
 
 186
 00:08:29,560 --> 00:08:32,240
-orqasida orqa qo'riqchilar nomli mahalliy
+orqa qo'riqchilar nomli mahalliy
 
 187
 00:08:32,240 --> 00:08:34,919
@@ -769,7 +765,7 @@ Bu vaqtga kelib prezident limuzini
 
 191
 00:08:45,800 --> 00:08:48,440
-fugon bilan chorrahaga yetib keladi.
+furgon bilan chorrahaga yetib keladi.
 
 192
 00:08:48,440 --> 00:08:50,399
