@@ -1,440 +1,239 @@
 1
-00:00:03,159 --> 00:00:05,480
-just over a decade ago the last native
+00:00:03,160 --> 00:00:08,760
+Just over a decade ago, the last native speaker 
+of Yurok died. And the language – which had been  
 
 2
-00:00:05,480 --> 00:00:08,360
-speaker of yoro died and the language
+00:00:08,760 --> 00:00:13,840
+spoken by indigenous people in California for 
+more than 10,000 years – died with him. And  
 
 3
-00:00:08,360 --> 00:00:09,840
-which had been spoken by indigenous
+00:00:13,840 --> 00:00:19,440
+Yurok isn’t alone; every year, an estimated 
+nine languages go extinct. That’s why,  
 
 4
-00:00:09,840 --> 00:00:11,280
-people in California for more than
+00:00:19,440 --> 00:00:23,560
+if you look at an official count of the total 
+number of living languages in the world over time,  
 
 5
-00:00:11,280 --> 00:00:14,480
-10,000 years died with him and yorck
+00:00:23,560 --> 00:00:28,240
+you can see that … wait, huh? 
+How are we gaining languages?
 
 6
-00:00:14,480 --> 00:00:17,199
-isn't alone every year an estimated nine
+00:00:28,240 --> 00:00:30,800
+Hi, I’m David, and this is MinuteEarth.
 
 7
-00:00:17,199 --> 00:00:19,640
-languages go extinct that's why if you
+00:00:30,800 --> 00:00:34,400
+First off, even though some languages are 
+going extinct, others that have been around  
 
 8
-00:00:19,640 --> 00:00:21,359
-look at an official count of the total
+00:00:34,400 --> 00:00:39,040
+for a long time – like Lakurumau, spoken 
+by a small group of villagers in Papua New  
 
 9
-00:00:21,359 --> 00:00:22,920
-number of living languages in the world
+00:00:39,040 --> 00:00:43,080
+Guinea – are only just being described by 
+experts, and so they’re only now getting  
 
 10
-00:00:22,920 --> 00:00:26,039
-over time you can see that wait huh how
+00:00:43,080 --> 00:00:46,360
+added to the official count. You know how 
+there are species that have been around  
 
 11
-00:00:26,039 --> 00:00:29,359
-are we gaining languages hi I'm David
+00:00:46,360 --> 00:00:50,240
+for ages – like the shrew-like animal called 
+a gymnure, which has been shrewing around in  
 
 12
-00:00:29,359 --> 00:00:31,599
-and this is minute Earth first off even
+00:00:50,240 --> 00:00:53,360
+the mountains of the Philippines for hundreds 
+of thousands of years – but they’re only just  
 
 13
-00:00:31,599 --> 00:00:33,520
-though some languages are going extinct
+00:00:53,360 --> 00:00:56,880
+being photographed and documented for 
+the first time? It’s a lot like that.
 
 14
-00:00:33,520 --> 00:00:34,960
-others that have been around for a long
+00:00:56,880 --> 00:01:01,040
+But by far the biggest reason for the increase 
+in living languages is the realization that what  
 
 15
-00:00:34,960 --> 00:00:37,840
-time like lumu spoken by a small group
+00:01:01,040 --> 00:01:05,519
+we once thought was one language is actually 
+a group of similar but distinct languages.
 
 16
-00:00:37,840 --> 00:00:40,079
-of villagers in Papua New guini are only
+00:01:05,519 --> 00:01:09,960
+Like, until the early 2000s, most experts 
+considered Arabic – spoken by more than a  
 
 17
-00:00:40,079 --> 00:00:42,120
-just being described by experts and so
+00:01:09,960 --> 00:01:13,600
+billion people – a single language. But 
+as linguists learned more about all the  
 
 18
-00:00:42,120 --> 00:00:43,600
-they're only now getting added to the
+00:01:13,600 --> 00:01:17,120
+different versions of Arabic, they realized 
+that some versions were so different that  
 
 19
-00:00:43,600 --> 00:00:45,320
-official count you know how there are
+00:01:17,120 --> 00:01:20,520
+people speaking them couldn’t even 
+understand each other. As a result,  
 
 20
-00:00:45,320 --> 00:00:47,199
-species that have been around for ages
+00:01:20,520 --> 00:01:25,000
+what used to be one language is now 
+officially more than 30 different languages.
 
 21
-00:00:47,199 --> 00:00:48,600
-like the Shrew likee animal called a
+00:01:25,000 --> 00:01:29,440
+Actually, that TOO is a lot like what’s going 
+on with species on Earth; like, for a long time,  
 
 22
-00:00:48,600 --> 00:00:50,239
-jimmere which has been shwing around in
+00:01:29,440 --> 00:01:32,960
+scientists considered giraffes to be 
+a single species. But recent genetic  
 
 23
-00:00:50,239 --> 00:00:51,399
-the mountains of the Philippines for
+00:01:32,960 --> 00:01:36,760
+research has revealed that there are actually 
+four separately-evolving groups of giraffes,  
 
 24
-00:00:51,399 --> 00:00:52,760
-hundreds of thousands of years but
+00:01:36,760 --> 00:01:40,880
+prompting a proposal to quadruple the 
+official number of giraffe species out there.
 
 25
-00:00:52,760 --> 00:00:54,239
-they're only just being photographed and
+00:01:40,880 --> 00:01:44,640
+So the number of known languages currently 
+spoken on Earth and the number of described  
 
 26
-00:00:54,239 --> 00:00:56,079
-documented for the first time it's a lot
+00:01:44,640 --> 00:01:48,680
+species currently living on Earth are both 
+officially increasing, but only because we're  
 
 27
-00:00:56,079 --> 00:00:58,120
-like that but by far the biggest reason
+00:01:48,680 --> 00:01:52,960
+getting better – and pickier – about documenting 
+and categorizing what’s out there, not because  
 
 28
-00:00:58,120 --> 00:01:00,120
-for the increase in living languages is
+00:01:52,960 --> 00:01:58,000
+we’re actually gaining diversity. I mean, 
+sure – new species and new languages ARE still  
 
 29
-00:01:00,120 --> 00:01:01,399
-the realization that what we once
+00:01:58,000 --> 00:02:03,640
+occasionally evolving, but that’s a really slow 
+process; as our planet globalizes and homogenizes,  
 
 30
-00:01:01,399 --> 00:01:03,160
-thought was one language is actually a
+00:02:03,640 --> 00:02:08,600
+existing species and languages are going 
+extinct way faster than new ones are evolving.
 
 31
-00:01:03,160 --> 00:01:05,519
-group of similar but distinct languages
+00:02:08,600 --> 00:02:12,400
+Soon, it’s likely that we’ll reach peak 
+language and peak species – that is,  
 
 32
-00:01:05,519 --> 00:01:08,040
-like until the early 2000s most experts
+00:02:12,400 --> 00:02:16,360
+we'll have documented and nit-picked basically 
+all we can, yet we’ll be losing languages and  
 
 33
-00:01:08,040 --> 00:01:09,960
-considered Arabic spoken by more than a
+00:02:16,360 --> 00:02:21,160
+species faster than ever – so the official counts 
+will begin to reflect the reality on the ground.
 
 34
-00:01:09,960 --> 00:01:12,240
-billion people a single language but as
+00:02:21,160 --> 00:02:26,200
+Which is…depressing. Occasionally, though, we 
+might be able to raise a language or species from  
 
 35
-00:01:12,240 --> 00:01:13,600
-linguists learn more about all the
+00:02:26,200 --> 00:02:30,920
+the dead. We’re still working on figuring out how 
+to clone dinosaurs, but Yurok – that indigenous  
 
 36
-00:01:13,600 --> 00:01:15,119
-different versions of Arabic they
+00:02:30,920 --> 00:02:36,040
+language that died in 2013 – is alive again; it’s 
+actively being taught in some high schools, and  
 
 37
-00:01:15,119 --> 00:01:16,560
-realized that some versions were so
+00:02:36,040 --> 00:02:40,680
+today, more than 300 kids speak it proficiently. 
+So despite all the linguistic and biological  
 
 38
-00:01:16,560 --> 00:01:17,880
-different that the people speaking them
+00:02:40,680 --> 00:02:47,720
+diversity we’re losing, perhaps – every once in 
+a while – life – and language – will find a way.
 
 39
-00:01:17,880 --> 00:01:19,880
-couldn't even understand each other as a
+00:02:47,720 --> 00:02:52,000
+To understand and play with data, like the number 
+of languages or species in the world - or anything  
 
 40
-00:01:19,880 --> 00:01:22,159
-result what used to be one language is
+00:02:52,000 --> 00:02:56,240
+else you’re interested in - you need to practice, 
+and Brilliant is where you learn by doing,  
 
 41
-00:01:22,159 --> 00:01:24,000
-now officially more than 30 different
+00:02:56,240 --> 00:03:00,600
+with thousands of interactive lessons 
+in data analysis, math, programming,  
 
 42
-00:01:24,000 --> 00:01:26,079
-languages actually that too is a lot
+00:03:00,600 --> 00:03:05,160
+and AI. Brilliant helps you build real skills 
+through hands-on problem-solving based on lessons  
 
 43
-00:01:26,079 --> 00:01:27,439
-like what's going on with species on
+00:03:05,160 --> 00:03:09,760
+created by MIT and CalTech professors and it 
+recently launched a ton of new data courses,  
 
 44
-00:01:27,439 --> 00:01:29,960
-earth like for a long time scientists
+00:03:09,760 --> 00:03:14,240
+all of which use real-world data to train you to 
+see trends and make better-informed decisions.  
 
 45
-00:01:29,960 --> 00:01:32,159
-considered drafts to be a single species
+00:03:14,240 --> 00:03:17,440
+I’m currently making my way through their 
+new course on exploring data visually, where  
 
 46
-00:01:32,159 --> 00:01:33,799
-but recent genetic research has revealed
+00:03:17,440 --> 00:03:22,000
+I’m playing with real data sets from sources like 
+Starbucks and AirBnB. To try everything Brilliant  
 
 47
-00:01:33,799 --> 00:01:35,159
-that there are actually Four separately
+00:03:22,000 --> 00:03:27,160
+has to offer for free for a full 30 days, visit 
+brilliant.org/MinuteEarth or click on the link  
 
 48
-00:01:35,159 --> 00:01:37,280
-evolving groups of drafts prompting a
-
-49
-00:01:37,280 --> 00:01:38,880
-proposal to quadruple the official
-
-50
-00:01:38,880 --> 00:01:41,040
-number of giraffe species out there so
-
-51
-00:01:41,040 --> 00:01:42,560
-the number of known languages currently
-
-52
-00:01:42,560 --> 00:01:44,240
-spoken on earth and the number of
-
-53
-00:01:44,240 --> 00:01:45,719
-described species currently living on
-
-54
-00:01:45,719 --> 00:01:48,119
-Earth are both officially increasing but
-
-55
-00:01:48,119 --> 00:01:49,439
-only because we're getting better and
-
-56
-00:01:49,439 --> 00:01:51,000
-pickier about documenting and
-
-57
-00:01:51,000 --> 00:01:52,759
-categorizing what's out there not
-
-58
-00:01:52,759 --> 00:01:54,799
-because we're actually gaining diversity
-
-59
-00:01:54,799 --> 00:01:56,799
-I mean sure new species and new
-
-60
-00:01:56,799 --> 00:01:58,520
-languages are still occasionally
-
-61
-00:01:58,520 --> 00:02:00,320
-evolving but that's a really slow
-
-62
-00:02:00,320 --> 00:02:02,640
-process as our planet globalizes and
-
-63
-00:02:02,640 --> 00:02:04,799
-homogenizes existing species and
-
-64
-00:02:04,799 --> 00:02:06,920
-languages are going extinct way faster
-
-65
-00:02:06,920 --> 00:02:09,160
-than new ones are evolving soon it's
-
-66
-00:02:09,160 --> 00:02:10,679
-likely that we'll reach Peak language
-
-67
-00:02:10,679 --> 00:02:12,800
-and Peak species that is we'll have
-
-68
-00:02:12,800 --> 00:02:14,319
-documented and nitpicked basically all
-
-69
-00:02:14,319 --> 00:02:16,360
-we can yet we'll be losing languages and
-
-70
-00:02:16,360 --> 00:02:18,440
-species faster than ever so the official
-
-71
-00:02:18,440 --> 00:02:20,120
-counts will begin to reflect the reality
-
-72
-00:02:20,120 --> 00:02:22,640
-on the ground which is depressing
-
-73
-00:02:22,640 --> 00:02:24,680
-occasionally though we might be able to
-
-74
-00:02:24,680 --> 00:02:26,360
-raise a language or species from the
-
-75
-00:02:26,360 --> 00:02:28,000
-dead we're still working on figuring out
-
-76
-00:02:28,000 --> 00:02:30,360
-how to clone dinosaurs but you're
-
-77
-00:02:30,360 --> 00:02:31,680
-that indigenous language that died in
-
-78
-00:02:31,680 --> 00:02:34,599
-2013 is alive again it's actively being
-
-79
-00:02:34,599 --> 00:02:36,640
-taught in some high schools and today
-
-80
-00:02:36,640 --> 00:02:38,760
-more than 300 kids speak it proficiently
-
-81
-00:02:38,760 --> 00:02:40,159
-so despite all the linguistic and
-
-82
-00:02:40,159 --> 00:02:41,840
-biological diversity we're losing
-
-83
-00:02:41,840 --> 00:02:44,360
-perhaps every once in a while life and
-
-84
-00:02:44,360 --> 00:02:46,720
-language will find a
-
-85
-00:02:46,720 --> 00:02:49,440
-way to understand and play with data
-
-86
-00:02:49,440 --> 00:02:50,920
-like the number of languages or species
-
-87
-00:02:50,920 --> 00:02:52,400
-in the world or anything else you're
-
-88
-00:02:52,400 --> 00:02:54,440
-interested in you need to practice and
-
-89
-00:02:54,440 --> 00:02:56,239
-Brilliant is where you learn by doing
-
-90
-00:02:56,239 --> 00:02:58,000
-with thousands of interactive lessons in
-
-91
-00:02:58,000 --> 00:03:01,400
-data analysis math programming and AI
-
-92
-00:03:01,400 --> 00:03:02,959
-brilliant helps you build real skills
-
-93
-00:03:02,959 --> 00:03:04,680
-through Hands-On problem solving based
-
-94
-00:03:04,680 --> 00:03:06,640
-on lessons created by MIT and Caltech
-
-95
-00:03:06,640 --> 00:03:08,400
-professors and it recently launched a
-
-96
-00:03:08,400 --> 00:03:10,440
-ton of new data courses all of which use
-
-97
-00:03:10,440 --> 00:03:12,120
-real world data to train you to see
-
-98
-00:03:12,120 --> 00:03:13,440
-Trends and to make better informed
-
-99
-00:03:13,440 --> 00:03:15,200
-decisions I'm currently making my way
-
-100
-00:03:15,200 --> 00:03:16,440
-through their new course on exploring
-
-101
-00:03:16,440 --> 00:03:18,120
-data visually we I'm playing with real
-
-102
-00:03:18,120 --> 00:03:19,720
-data sets from sources like Starbucks
-
-103
-00:03:19,720 --> 00:03:22,000
-and Airbnb to try everything brilliant
-
-104
-00:03:22,000 --> 00:03:24,400
-has to offer for free for a full 30 days
-
-105
-00:03:24,400 --> 00:03:26,840
-visit brilliant.org minitar or click on
-
-106
-00:03:26,840 --> 00:03:28,519
-the link in the description you'll also
-
-107
-00:03:28,519 --> 00:03:30,599
-get 20% off of an annual premium
-
-108
-00:03:30,599 --> 00:03:34,680
-subscription thanks brilliant
-
-109
-00:03:35,070 --> 00:03:38,110
-[Music]
-
-110
-00:03:42,010 --> 00:03:44,320
-[Music]
+00:03:27,160 --> 00:03:42,440
+in the description. You’ll also get 20% off an 
+annual premium subscription. Thanks Brilliant.
 
