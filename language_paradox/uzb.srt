@@ -23,7 +23,7 @@ til yo'q bo'lib ketadi. Shuning uchun,
 4
 00:00:19,440 --> 00:00:23,560
 if you look at an official count of the total 
-agar vaqt davomida dunyodagi tirik tillarning 
+agar vaqt davomida dunyodagi tirik tillar
 number of living languages in the world over time,
 umumiy sonining rasmiy hisobiga qaraydigan bo'lsangiz,
 
@@ -58,19 +58,19 @@ Lakurumau, Yangi Gvineyadagi kichik insonlar
 Guinea – are only just being described by 
 guruhi tomonidan gaplashib kelingan til,
 experts, and so they’re only now getting  
-ekspertlar tomonidan endigina tasvirlab
+ekspertlar tomonidan endigina o'rganilmoqda
 
 10
 00:00:43,080 --> 00:00:46,360
 added to the official count. You know how 
-berilmoqda, va rasmiy hisobga qo'shilmoqda.
+va rasmiy hisobga qo'shilmoqda.
 there are species that have been around  
 Siz qanday qilib asrlardan beri ba'zi
 
 11
 00:00:46,360 --> 00:00:50,240
 for ages – like the shrew-like animal called 
-turlar mavjud bo'lganligini, xuddi yerqaga
+turlar mavjud bo'lganligini, xuddi yerqazirga
 a gymnure, which has been shrewing around in 
 o'xshash "Gimnastik" deb nomlanuvchi hayvon
 
@@ -140,7 +140,7 @@ rasman 30 dan ortiq turli xil tillarga aylandi.
 21
 00:01:25,000 --> 00:01:29,440
 Actually, that TOO is a lot like what’s going 
-Aslida, BU ham Yerdagi turlar bilan nima ro'y
+Aslida, bu ham Yerdagi turlar bilan nima ro'y
 on with species on Earth; like, for a long time,  
 berayotganiga juda ham o'xshash; Masalan, uzoq
 
@@ -156,14 +156,14 @@ tur deb hisoblashardi. Ammo yaqindagi
 research has revealed that there are actually 
 genetik izlanish shuni ko'rsatdi-ki, aslida Yerda
 four separately-evolving groups of giraffes,  
-4ta alohida-shakllangan jirafalar guruhi mavjud,
+4ta turlicha-shakllangan jirafalar guruhi mavjud,
 
 24
 00:01:36,760 --> 00:01:40,880
 prompting a proposal to quadruple the 
 va bu jirafalarning rasmiy sonini to'rt
 official number of giraffe species out there.
-martaga ko'paytirish masalasini taqdim qilindi.
+martaga ko'paytirish masalasini taqdim qiladi.
 
 25
 00:01:40,880 --> 00:01:44,640
@@ -189,7 +189,7 @@ usullarini qo'llayotganimizdandir, va biz haqiqiy
 28
 00:01:52,960 --> 00:01:58,000
 we’re actually gaining diversity. I mean, 
-xilma-xillik olayotganimizdan emas. Nazarda
+xilma-xillikni olayotganimizdan emas. Nazarda
 sure – new species and new languages ARE still  
 tutganim, to'g'ri yangi turlar va yangi tillar
 
@@ -212,7 +212,7 @@ bo'layotganlarga qaraganda ancha tezroq yo'qolib bormoqda.
 Soon, it’s likely that we’ll reach peak
 Yaqinda, ehtimol eng cho'qqidagi til va
 language and peak species – that is,  
-turga yetamiz va bu- iloji bor asosan
+turga yetamiz va buning iloji bor,
 
 32
 00:02:12,400 --> 00:02:16,360
