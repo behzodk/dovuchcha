@@ -142,7 +142,7 @@ rasman 30 dan ortiq turli xil tillarga aylandi.
 Actually, that TOO is a lot like what’s going 
 Aslida, bu ham Yerdagi turlar bilan sodir boʻlayotgan 
 on with species on Earth; like, for a long time,  
-hodisalarga juda ham o'xshash; Masalan, uzoq
+hodisalarni takrorlaydi; Masalan, uzoq
 
 22
 00:01:29,440 --> 00:01:32,960
@@ -175,7 +175,7 @@ tillarning soni ham , Yer yuzida yashayotgan
 26
 00:01:44,640 --> 00:01:48,680
 species currently living on Earth are both 
-s mavjudotlarning soni
+ mavjudotlarning soni
 officially increasing, but only because we're  
 ham rasman o'smoqda, lekin bu faqatgina biz
 
@@ -191,12 +191,12 @@ usullarini qo'llayotganimizdandir, va bu yangi
 we’re actually gaining diversity. I mean, 
 tillar yaratilayotganligidan  emas. Aytmoqchi 
 sure – new species and new languages ARE still  
-tutganim, to'g'ri yangi turlar va yangi tillar
+boʻlganimiz, to'g'ri yangi turlar va yangi tillar
 
 29
 00:01:58,000 --> 00:02:03,640
 occasionally evolving, but that’s a really slow 
-hali ham ba'zan rivojlanmoqda, lekin bu juda ham
+ ba'zan paydo boʻlmoqda, lekin bu juda ham
 process; as our planet globalizes and homogenizes,  
 sekin jarayon; sayyoramiz globallashar va gomogenlashar
 
@@ -205,40 +205,40 @@ sekin jarayon; sayyoramiz globallashar va gomogenlashar
 existing species and languages are going 
 ekan, mavjud turlar va tillar yangi paydo 
 extinct way faster than new ones are evolving.
-bo'layotganlarga qaraganda ancha tezroq yo'qolib bormoqda.
+bo'layotganlariga qaraganda ancha tezroq yo'qolib bormoqda.
 
 31
 00:02:08,600 --> 00:02:12,400
 Soon, it’s likely that we’ll reach peak
-Yaqinda, ehtimol eng cho'qqidagi til va
+Tez orada,  til va turlar rivojlanishining eng yuqori choʻqqisiga
 language and peak species – that is,  
-turga yetamiz va bu- iloji bor asosan
+ yetishi mumkin va bu- iloji bor boʻlgan
 
 32
 00:02:12,400 --> 00:02:16,360
 we'll have documented and nit-picked basically 
 barcha narsani hujjatlashtirib qo'yishimiz va tanlab
 all we can, yet we’ll be losing languages and  
-qo'yishimizni anglatadi, shunga qaramay biz tillar
+qo'yishimiz lozimligini  anglatadi, shunga qaramay biz tillar
 
 33
 00:02:16,360 --> 00:02:21,160
 species faster than ever – so the official counts
-va turlarni har qachondan ham tezroq yo'qotamiz -
+va turlarni har qachongidan  ham tezroq yo'qotamiz -
 will begin to reflect the reality on the ground.
 shunda rasmiy raqamlar reallikni ko'rsata boshlaydi.
 
 34
 00:02:21,160 --> 00:02:26,200
 Which is…depressing. Occasionally, though, we
-Va bu juda achinarli. Ora orada, biroq, biz o'lgan
+Va bu juda achinarli. ba'zida, biz o'lgan
 might be able to raise a language or species from  
-tilni yoki turni qaytarib qo'ya olishimiz mumkin.
+tilga yoki turga qayta  hayot berishimiz mumkin.
 
 35
 00:02:26,200 --> 00:02:30,920
 the dead. We’re still working on figuring out how 
-Biz hali ham dinozavrlarni klonlashni aniqlash
+Biz hali ham dinozavrlarni klonlash usullari
 to clone dinosaurs, but Yurok – that indigenous  
 ustida ishlayapmiz, ammo Yurok - o'sha 2013-yilda
 
@@ -261,14 +261,14 @@ olishadi. Shunday qilib, barcha lingvistik va
 diversity we’re losing, perhaps – every once in 
 biologik xilma-xilliklarni yo'qotishimizga qaramay,
 a while – life – and language – will find a way.
-balkim - vaqti vaqti bilan - hayot va til o'z yo'lini topadi.
+balkim - vaqti kelishi bilan - turlar va tillar o'z yo'lini topadi.
 
 39
 00:02:47,720 --> 00:02:52,000
 To understand and play with data, like the number 
 Ma'lumotlarni, xuddi dunyodagi tillarning yoki turlarning
 of languages or species in the world - or anything  
-soni kabi - yoki qiziqqan boshqa narsangizni tushunish
+soni kabi - yoki qiziqqan boshqa narsalaringizni tushunish
 
 40
 00:02:52,000 --> 00:02:56,240
@@ -287,7 +287,7 @@ ortiq darslar yordamida o'rganishingiz
 42
 00:03:00,600 --> 00:03:05,160
 and AI. Brilliant helps you build real skills 
-mumkin. Brilliant sizga haqiqiy ko'nikmalar hosil
+mumkin boʻlgan platforma. Brilliant sizga haqiqiy ko'nikmalar hosil
 through hands-on problem-solving based on lessons  
 qilishda amaliy muammolarni hal qilish yo'li bilan,
 
@@ -303,21 +303,21 @@ asoslanadi va ular yaqinda ko'plab yangi ma'lumot
 all of which use real-world data to train you to 
 bo'yicha, barchasi haqiqiy dunyodagi ma'lumotlarni
 see trends and make better-informed decisions.  
-ishlatadigan kursliklar dasturni ishga tushirishdi.
+ishlatadigan kurslarini ishga tushirishdi.
 
 45
 00:03:14,240 --> 00:03:17,440
 I’m currently making my way through their 
 O'zim hozirda ularning ma'lumotni vizual
 new course on exploring data visually, where
-tadqiq qilish bo'yicha yangi kursida yurib,
+tadqiq qilish bo'yicha yangi kursida oʻqib  yurib,
 
 46
 00:03:17,440 --> 00:03:22,000
 I’m playing with real data sets from sources like 
 Starbucks va AirBnB kabi manbalaridan haqiqiy ma'lumotlar
 Starbucks and AirBnB. To try everything Brilliant  
-bilan o'ynab yuribman. Brilliant taklif qiladigan
+bilan ishlamoqdaman. Brilliant taklif qiladigan
 
 47
 00:03:22,000 --> 00:03:27,160
